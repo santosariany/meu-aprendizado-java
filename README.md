@@ -9,7 +9,7 @@ Praticar e consolidar conceitos essenciais de programação, focando em:
 * **Organização:** Manter um código limpo e um histórico de evolução constante.
 
 ## 📂 O que você encontra aqui?
-* **[Logica-de-Programacao/](./Logica-de-Programacao/):** Exercícios iniciais como Análise de Crédito, Validador de Embarque e desafios de lógica pura.
+* **[Logica-de-Programacao/](./Logica-de-Programacao/):** Exercícios iniciais como Análise de Crédito, Financiamento de Moto e desafios de lógica pura.
 * **Exercícios de Fixação:** Pequenos programas para testar novos conhecimentos em tempo real.
 
 ## 🛠️ Ferramentas Utilizadas
